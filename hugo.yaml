@@ -1,0 +1,5 @@
+baseURL: https://snsar.github.io/
+languageCode: en-us
+# languageCode: vi
+title: My New Hugo Site
+theme: PaperMod
